@@ -1,0 +1,5 @@
+D:\anson\FCM\FCM\obj\Debug\FCM.csprojResolveAssemblyReference.cache
+D:\anson\FCM\FCM\bin\Debug\FCM.dll
+D:\anson\FCM\FCM\bin\Debug\FCM.pdb
+D:\anson\FCM\FCM\obj\Debug\FCM.dll
+D:\anson\FCM\FCM\obj\Debug\FCM.pdb
